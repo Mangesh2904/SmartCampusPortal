@@ -622,13 +622,13 @@ copies or substantial portions of the Software.
 - ✅ Notification system
 - ✅ Basic placement portal
 
-### Phase 2 (Q1 2024)
+### Phase 2 (Q1 2025)
 - 🔄 Mobile application
 - 🔄 Advanced analytics dashboard
 - 🔄 Integration with external LMS
 - 🔄 Real-time chat system
 
-### Phase 3 (Q2 2024)
+### Phase 3 (Q2 2025)
 - 📋 AI-powered recommendations
 - 📋 Advanced reporting system
 - 📋 API for third-party integrations
